@@ -1,0 +1,70 @@
+
+/* Estilo personalizado para StreamPlay WP Docs */
+
+body {
+  font-family: "Segoe UI", sans-serif;
+  background-color: #fdfdfd;
+  color: #333;
+  line-height: 1.6;
+  padding: 2rem;
+  max-width: 850px;
+  margin: auto;
+}
+
+h1, h2, h3 {
+  color: #ff5c33;
+  border-bottom: 1px solid #eee;
+  padding-bottom: 4px;
+}
+
+code {
+  background: #f4f4f4;
+  padding: 2px 5px;
+  border-radius: 4px;
+}
+
+pre code {
+  display: block;
+  padding: 1rem;
+  overflow-x: auto;
+  background: #f4f4f4;
+  border-left: 3px solid #ff5c33;
+}
+
+a {
+  color: #0066cc;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+hr {
+  border: none;
+  height: 1px;
+  background-color: #eee;
+  margin: 2rem 0;
+}
+
+blockquote {
+  border-left: 4px solid #ff5c33;
+  padding-left: 1rem;
+  color: #555;
+  background: #fff8f5;
+}
+
+nav {
+  margin-bottom: 2rem;
+  padding: 1rem;
+  background-color: #fff1eb;
+  border: 1px solid #ffd6cc;
+  border-radius: 6px;
+}
+
+footer {
+  margin-top: 4rem;
+  font-size: 0.85rem;
+  color: #777;
+  text-align: center;
+}
